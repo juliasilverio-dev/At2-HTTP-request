@@ -23,9 +23,13 @@ As requisições HTTP são fundamentais para comunicação entre sistemas web, u
   
 </p>
 
+ ⚙️ Funcionalidades
 
+- Consumo de API via HTTP (GET)
+- Envio de requisições (POST, se implementado)
+- Interface dinâmica
+- Estilização com CSS
 
-</p>
 
 ---
 
@@ -47,15 +51,4 @@ public/
 ├── package-lock.json
 ├── .gitignore
 └── README.md
-
-
----
-
-## ⚙️ Funcionalidades
-
-- Consumo de API via HTTP (GET)
-- Envio de requisições (POST, se implementado)
-- Interface dinâmica
-- Estilização com CSS
-
 ---
